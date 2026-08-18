@@ -3,9 +3,10 @@
 ## Recurring Patterns
 - **"I like" vs "I'd like"** (seen 2x, last: 2026-08-18): using conditional "I'd like" (a specific wish) instead of habitual "I like" (general preference); also remember "-ing" after "like" for habits.
 - **Dropping key vocabulary in translation** (seen 1x, last: 2026-08-17): translating loosely and losing a specific word from the original (e.g., "відпочинок" = vacation, not just "relax").
-- **Spelling slips** (seen 4x, last: 2026-08-18): typos like "sugest" for "suggest," "travalling" for "traveling," "bycicle" for "bicycle," "univercity"/"rgreed"/"Gorgia."
-- **"feel" + adjective, not verb** (seen 1x, last: 2026-08-18): after "feel," use the adjective form (e.g., "feel relaxed," not "feel relax").
-- **Verb + preposition patterns** (seen 1x, last: 2026-08-18): e.g., "spend time doing" (not "spend time to do"), "suggest X to someone" (not "suggest X for someone").
+- **Spelling slips** (seen 5x, last: 2026-08-18): typos like "sugest" for "suggest," "travalling" for "traveling," "bycicle" for "bicycle," "univercity"/"rgreed"/"Gorgia," "pruposed" for "proposed."
+- **"feel" + adjective, not verb** (seen 2x, last: 2026-08-18): after "feel," use the adjective form (e.g., "feel relaxed," not "feel relax/relaxing").
+- **Verb + preposition/complement patterns** (seen 2x, last: 2026-08-18): e.g., "spend time doing" (not "spend time to do"), "suggest X to someone" (not "suggest X for someone"), "suggest (that) someone do something" (not "propose someone to do").
+- **"than" vs "then"** (seen 1x, last: 2026-08-18): "than" for comparisons, "then" for sequence; also keep parallel "-ing" after "than" (e.g., "more time playing than reading," not "than to read").
 - **-ing form for naming activities** (seen 1x, last: 2026-08-18): activities named with -ing, e.g. "paragliding," "hang-gliding," not the noun for the equipment ("paraglide," "hang-glider").
 - **Past tense of irregular verbs** (seen 1x, last: 2026-08-18): e.g. "come"→"came," "flied"→"flown," "finish"→"finished" when narrating past events.
 - **"fly" as noun vs "flight"** (seen 1x, last: 2026-08-18): the noun is "flight"/"flights," not "fly"/"flies" (e.g. "my first flight," not "my first fly").
@@ -21,3 +22,6 @@
 - 2026-08-18: "...had just graduated the univercity... instructor come to me... I rgreed... my first fly on paraglide... made more flies... when known that it cost must smaller then... I spend about 2 years... I've flied in India, Gorgia..." → "...had just graduated from university... an instructor came to me... I agreed... my first flight on a paraglider... did more flights... when I found out that it cost much less... it took me about 2 years... I've flown in India, Georgia..." (past tense of irregular verbs; "fly"→"flight" as a noun; spelling: univercity, rgreed, Gorgia, must→much)
 - 2026-08-18 (vocab training): "I spent 2 years learning English before flying on vacation." → "...before going on vacation." (collocation: "go on vacation," not "fly on vacation")
 - 2026-08-18 (vocab training): "There's my first flight on a paraglider in Georgia." → "My first flight on a paraglider was in Georgia." ("there's" misused for a personal fact; needs normal subject + verb)
+- 2026-08-18 (vocab training): "It helps me to feel relaxing." → "It helps me feel relaxed." ("feel" + adjective, not "-ing")
+- 2026-08-18 (vocab training): "my instructor pruposed me to try again" → "my instructor suggested I try again" (spelling: pruposed; "suggest" + clause, not "propose someone to do")
+- 2026-08-18 (vocab training): "more time playing with kids then to read books" → "more time playing with kids than reading books" ("than" vs "then"; parallel "-ing" after "than")

@@ -22,9 +22,10 @@
 
 ## Conversation Commands
 - **/save-c**: When I send this, wrap up the current conversation:
-  1. Write it to `conversations/<YYYY-MM-DD>/<HH-MM>.md` (folder = date, filename = time), creating the date folder if it doesn't exist.
-  2. File contents: a short summary at the top (topics covered, corrections made, key takeaways), followed by the full verbatim transcript below.
-  3. Confirm the file was saved and give me the path.
+  1. Only include the actual coaching conversation — starting from the most recent `/start-c` (or, if that wasn't used, from the first conversational message) up through this `/save-c` command. Exclude any unrelated work done earlier in the session (e.g. editing CLAUDE.md, other coding tasks) that isn't part of this conversation.
+  2. Write it to `conversations/<YYYY-MM-DD>/<HH-MM>.md` (folder = date, filename = time), creating the date folder if it doesn't exist.
+  3. File contents: a short summary at the top (topics covered, corrections made, key takeaways), followed by the full verbatim transcript of just that conversation portion below.
+  4. Confirm the file was saved and give me the path.
 - **/start-c**: When I send this, start fresh — greet me and ask an open-ended conversation-starter question (day, hobbies, tech, or news), as if this were a brand-new chat. (See "Mistake Tracking" above for the optional heads-up.)
 
 ## Vocabulary Training (/train-v)
