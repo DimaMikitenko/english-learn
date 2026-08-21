@@ -2,10 +2,10 @@
 
 ## Recurring Patterns
 - **"I like" vs "I'd like"** (seen 2x, last: 2026-08-18): using conditional "I'd like" (a specific wish) instead of habitual "I like" (general preference); also remember "-ing" after "like" for habits.
-- **Dropping key vocabulary in translation** (seen 1x, last: 2026-08-17): translating loosely and losing a specific word from the original (e.g., "відпочинок" = vacation, not just "relax").
+- **Dropping key vocabulary in translation** (seen 4x, last: 2026-08-21): translating loosely and losing a specific word from the original (e.g., "відпочинок" = vacation, not just "relax"/"rest"; "впевненим" = confident, not just "better"; dropping intensifiers like "завжди" = always).
 - **Spelling slips** (seen 6x, last: 2026-08-20): typos like "sugest" for "suggest," "travalling" for "traveling," "bycicle" for "bicycle," "univercity"/"rgreed"/"Gorgia," "pruposed" for "proposed," "previysly" for "previously."
 - **"feel" + adjective, not verb** (seen 3x, last: 2026-08-21): after "feel," use the adjective form (e.g., "feel relaxed," not "feel relax/relaxing").
-- **Verb + preposition/complement patterns** (seen 4x, last: 2026-08-18): e.g., "spend time doing" (not "spend time to do"), "suggest X to someone" (not "suggest X for someone"), "suggest (that) someone do something" (not "suggest someone to do" / "propose someone to do").
+- **Verb + preposition/complement patterns** (seen 6x, last: 2026-08-21): e.g., "spend time doing" (not "spend time to do"), "suggest X to someone" (not "suggest X for someone," and don't drop the "to me"), "suggest (that) someone do something" (not "suggest someone to do" / "suggest someone doing" / "propose someone to do").
 - **"than" vs "then"** (seen 1x, last: 2026-08-18): "than" for comparisons, "then" for sequence; also keep parallel "-ing" after "than" (e.g., "more time playing than reading," not "than to read").
 - **-ing form for naming activities** (seen 1x, last: 2026-08-18): activities named with -ing, e.g. "paragliding," "hang-gliding," not the noun for the equipment ("paraglide," "hang-glider").
 - **Past tense of irregular verbs** (seen 1x, last: 2026-08-18): e.g. "come"→"came," "flied"→"flown," "finish"→"finished" when narrating past events.
@@ -32,3 +32,8 @@
 - 2026-08-20: "previysly, 3 years ago" → "previously, 3 years ago" (spelling)
 - 2026-08-20: "No, it's my company require now." → "No, my company requires it now." (dropped unneeded "it's"; subject-verb agreement; added object "it")
 - 2026-08-21 (vocab training): "It helps me to feel relaxing." → "It helps me feel relaxed." ("feel" + adjective, not "-ing")
+- 2026-08-21 (vocab training): "She previously suggested another route to walk." → "She previously suggested another travel route to me." (dropped "to me"; lost specific meaning of "маршрут подорожі")
+- 2026-08-21 (vocab training): "It helps me feel better before an exam." → "It helps me feel confident before an exam." (dropped key vocabulary: "впевненим" = confident)
+- 2026-08-21 (vocab training): "My friend has suggested me trying a new coffee in this cafe." → "My friend suggested that I try new coffee at this café." ("suggest someone trying" is invalid; use "suggest (that) someone do something")
+- 2026-08-21 (vocab training): "...it was an amazing rest." → "...it was an amazing vacation." (collocation: "vacation" fits better than "rest" for "відпочинок")
+- 2026-08-21 (vocab training): "He used to agree with my proposals previously." → "He always agreed with my proposal in the past." (dropped "always"; wrong plural "proposals"→"proposal"; redundant "used to...previously")
