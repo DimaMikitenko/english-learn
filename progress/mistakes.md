@@ -4,7 +4,7 @@
 - **"I like" vs "I'd like"** (seen 2x, last: 2026-08-18): using conditional "I'd like" (a specific wish) instead of habitual "I like" (general preference); also remember "-ing" after "like" for habits.
 - **Dropping key vocabulary in translation** (seen 1x, last: 2026-08-17): translating loosely and losing a specific word from the original (e.g., "відпочинок" = vacation, not just "relax").
 - **Spelling slips** (seen 6x, last: 2026-08-20): typos like "sugest" for "suggest," "travalling" for "traveling," "bycicle" for "bicycle," "univercity"/"rgreed"/"Gorgia," "pruposed" for "proposed," "previysly" for "previously."
-- **"feel" + adjective, not verb** (seen 2x, last: 2026-08-18): after "feel," use the adjective form (e.g., "feel relaxed," not "feel relax/relaxing").
+- **"feel" + adjective, not verb** (seen 3x, last: 2026-08-21): after "feel," use the adjective form (e.g., "feel relaxed," not "feel relax/relaxing").
 - **Verb + preposition/complement patterns** (seen 2x, last: 2026-08-18): e.g., "spend time doing" (not "spend time to do"), "suggest X to someone" (not "suggest X for someone"), "suggest (that) someone do something" (not "propose someone to do").
 - **"than" vs "then"** (seen 1x, last: 2026-08-18): "than" for comparisons, "then" for sequence; also keep parallel "-ing" after "than" (e.g., "more time playing than reading," not "than to read").
 - **-ing form for naming activities** (seen 1x, last: 2026-08-18): activities named with -ing, e.g. "paragliding," "hang-gliding," not the noun for the equipment ("paraglide," "hang-glider").
@@ -30,3 +30,4 @@
 - 2026-08-20: "it's a common day with daily routine" → "it's just a normal day with my usual routine" ("common" vs "normal"; needs possessive "my")
 - 2026-08-20: "previysly, 3 years ago" → "previously, 3 years ago" (spelling)
 - 2026-08-20: "No, it's my company require now." → "No, my company requires it now." (dropped unneeded "it's"; subject-verb agreement; added object "it")
+- 2026-08-21 (vocab training): "It helps me to feel relaxing." → "It helps me feel relaxed." ("feel" + adjective, not "-ing")
